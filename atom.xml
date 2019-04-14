@@ -3,11 +3,11 @@
   <title>Tom</title>
   
   
-  <link href="/hexo-blog-test/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://flzc.gitee.io/hexo-blog-test/"/>
+  <link href="/"/>
   <updated>2019-04-14T02:23:48.145Z</updated>
-  <id>http://flzc.gitee.io/hexo-blog-test/</id>
+  <id>/</id>
   
   <author>
     <name>Tom</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>MySQL常用SQL</title>
-    <link href="http://flzc.gitee.io/hexo-blog-test/2019/01/21/hello-world/"/>
-    <id>http://flzc.gitee.io/hexo-blog-test/2019/01/21/hello-world/</id>
+    <link href="/2019/01/21/hello-world/"/>
+    <id>/2019/01/21/hello-world/</id>
     <published>2019-01-21T01:42:00.000Z</published>
     <updated>2019-04-14T02:23:48.145Z</updated>
     
@@ -32,10 +32,10 @@
     
     </summary>
     
-      <category term="MySQL" scheme="http://flzc.gitee.io/hexo-blog-test/categories/MySQL/"/>
+      <category term="MySQL" scheme="/categories/MySQL/"/>
     
     
-      <category term="MySQL" scheme="http://flzc.gitee.io/hexo-blog-test/tags/MySQL/"/>
+      <category term="MySQL" scheme="/tags/MySQL/"/>
     
   </entry>
   
